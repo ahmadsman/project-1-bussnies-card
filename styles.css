@@ -27,7 +27,7 @@ body {
     border-right: 10px solid #d8ce;
     box-shadow: 10px 10px 5px darkgrey;
     
-    animation-play-state: running;
+  
 }
 
   .card :hover{ 
